@@ -1,2 +1,6 @@
 data/
 .DS_Store
+ch2_env/
+models/
+challenge_2_tutorial.ipynb
+.ipynb_checkpoints
