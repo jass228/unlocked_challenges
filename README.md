@@ -17,7 +17,7 @@ There are 4 challenges that covers 4 fields:
 
 - [**Data Visualization**]()
 - [**Natural Language Processing**](./challenge_2/)
-- [**Audio Analysis**]()
-- [**Image Analysis**]()
+- [**Audio Analysis**](./challenge_3)
+- [**Image Analysis**](./challenge_4)
 
 [Challenges website](https://www.hp.com/us-en/workstations/industries/data-science/unlocked-with-z.html)
