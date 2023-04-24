@@ -13,9 +13,8 @@
 It's an interactive film to solve some data challenges.
 This challenge can help to improve the data science skills.
 
-There are 4 challenges that covers 4 fields:
+There are 3 challenges that covers 3 fields:
 
-- [**Data Visualization**]()
 - [**Natural Language Processing**](./challenge_2/)
 - [**Audio Analysis**](./challenge_3)
 - [**Image Analysis**](./challenge_4)
